@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_info_cards_with_images",
+  "info": {
+    "displayName": "Info Cards With Images",
+    "icon": "layout"
+  },
+  "attributes": {
+    "cards": {
+      "type": "component",
+      "repeatable": true,
+      "required": true,
+      "min": 3,
+      "max": 3,
+      "component": "shared.info-card"
+    },
+    "images": {
+      "type": "component",
+      "repeatable": true,
+      "required": true,
+      "min": 3,
+      "max": 3,
+      "component": "shared.image-item"
+    }
+  }
+}

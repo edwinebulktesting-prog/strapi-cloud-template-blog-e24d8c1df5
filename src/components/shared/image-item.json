@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_image_items",
+  "info": {
+    "displayName": "Image Item",
+    "icon": "picture"
+  },
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": ["images"]
+    },
+    "altText": {
+      "type": "string"
+    }
+  }
+}
