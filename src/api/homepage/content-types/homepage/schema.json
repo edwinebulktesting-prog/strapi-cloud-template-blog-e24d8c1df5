@@ -16,12 +16,7 @@
     "sections": {
       "type": "dynamiczone",
       "components": [
-        "shared.rich-text",
-        "shared.media",
-        "shared.quote",
-        "shared.slider",
-        "shared.feature-grid",
-        "shared.call-to-action"
+       
       ]
     }
   }
