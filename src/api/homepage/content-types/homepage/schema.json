@@ -12,11 +12,11 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "title":{
-      "type":"string"
+    "title": {
+      "type": "string"
     },
-    "description":{
-      "title":"Testing"
+    "description": {
+      "type": "text"
     },
     "sections": {
       "type": "dynamiczone",
