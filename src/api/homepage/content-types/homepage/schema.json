@@ -15,9 +15,7 @@
     "description": { "type": "text" },
     "sections": {
       "type": "dynamiczone",
-      "components": [
-       
-      ]
+      "components": ["shared.media", "shared.quote", "shared.rich-text", "shared.slider"]
     }
   }
 }
