@@ -12,15 +12,11 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "seo": {
-      "type": "component",
-      "repeatable": false,
-      "component": "shared.seo"
+    "title":{
+      "type":"string"
     },
-    "hero": {
-      "type": "component",
-      "repeatable": false,
-      "component": "shared.hero"
+    "description":{
+      "title":"Testing"
     },
     "sections": {
       "type": "dynamiczone",
